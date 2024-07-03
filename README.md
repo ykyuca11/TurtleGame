@@ -4,7 +4,7 @@ First Project
 
 ## requirements
 
-**Turtle:**
+### **Turtle:**
 
 https://docs.python.org/3/library/turtle.html
 
@@ -12,10 +12,10 @@ https://docs.python.org/3/library/turtle.html
 
 >pip install tk-tools
 
-**Time:**
+### **Time:**
 
 https://docs.python.org/3/library/time.html
 
-**Random:**
+### **Random:**
 
 https://docs.python.org/3/library/random.html
