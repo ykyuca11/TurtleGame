@@ -1,3 +1,21 @@
-# TURTLE GAME
+# Turtle Game
 
-this is my first project that i load github. i hope i can do better things in future.
+First Project
+
+##requirements
+
+**Turtle:**
+
+https://docs.python.org/3/library/turtle.html
+
+*Note: if you get error, try:*
+
+>pip install tk-tools
+
+**Time:**
+
+https://docs.python.org/3/library/time.html
+
+**Random:**
+
+https://docs.python.org/3/library/random.html
